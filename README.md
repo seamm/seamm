@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome to SEAMM 👋
 
+This is an account dedicated to the [SEAMM](https://github.com/molssi-seamm) project at the Molecular Sciences Software Institute ([MolSSI](https://molssi.org/)) at [Virginia Tech](https://www.vt.edu/). 
 <!--
 **seamm/seamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
